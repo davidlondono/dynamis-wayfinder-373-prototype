@@ -1,2 +1,2 @@
 First generated capability.
-Corrected app text in a follow-up fix.
+Corrected app text in a follow-up fix. Breaking API behavior.
