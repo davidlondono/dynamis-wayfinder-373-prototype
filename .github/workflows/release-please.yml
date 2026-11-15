@@ -2,7 +2,7 @@ name: release-please
 
 on:
   push:
-    branches: [main]
+    branches: [main, 'test/**']
 
 permissions:
   contents: write
@@ -18,3 +18,4 @@ jobs:
         with:
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
+          target-branch: ${{ github.ref_name }}

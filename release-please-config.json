@@ -2,8 +2,7 @@
   "release-type": "simple",
   "packages": {
     ".": {
-      "release-type": "simple",
-      "release-as": "0.1.0"
+      "release-type": "simple"
     }
   }
 }
