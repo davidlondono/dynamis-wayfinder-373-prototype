@@ -1,1 +1,1 @@
-Second generated capability.
+Second generated capability. Mixed bump test feature.
